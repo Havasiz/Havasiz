@@ -134,8 +134,6 @@
   <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@Havasiz/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-
 <br>
 <br>
 
