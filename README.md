@@ -159,52 +159,21 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    117 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-🌆 Daytime    274 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
-🌃 Evening    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
-🌙 Night      124 commits    █████░░░░░░░░░░░░░░░░░░░░   19.68%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
-Wednesday    183 commits    ███████░░░░░░░░░░░░░░░░░░   29.05% 
-Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Friday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
-Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Sunday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Europe CET
 
 💬 Programming Languages: 
-Other                    60 hrs 5 mins       ██████████████████████░░░   91.43% 
-JavaScript               1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-HTML                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-TypeScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-EJS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+Other                    60 hrs 5 mins       █████████████████████  91.43% 
+Python               1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
+Lua                     46 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
 
 🔥 Editors: 
-Browser                  60 hrs 4 mins       ██████████████████████░░░   91.4% 
+Browser                  60 hrs 4 mins       ██████████████████████  91.4% 
 VS Code                  3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-WebStorm                 2 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
 
-🐱‍💻 Projects: 
-Havasiz.github.io  36 hrs 10 mins      █████████████░░░░░░░░░░░░   55.05% 
-metrics                  27 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.36% 
-Jupyter-x-Docker         1 hr 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
-PyGithub                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
 Windows                  65 hrs 43 mins      █████████████████████████   100.0%
@@ -214,91 +183,11 @@ Windows                  65 hrs 43 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Jupyter Notebook         18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
+Python                   20 repos            █████                       20.41% 
+Lua                      18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
 
 ```
 
-
-
- Last Updated on 23/06/2022 02:54:40 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@Havasiz/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@Havasiz/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github.com/Havasiz/Havasiz/blob/master/metrics.svg"/>
-  <img src="https://github.com/Havasiz/Havasiz/blob/master/metrics.detailed.svg" width="75%"/>
-</p>
-
-<h1>
-  Connect With Me
-  <img src="https://github.com/Havasiz/Havasiz/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/Havasiz/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/Havasiz/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/Havasiz" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/Havasiz">
-    <code><img src="https://github.com/Havasiz/Havasiz/blob/master/SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/Havasiz/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/Havasiz" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@Havasiz" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/Havasiz" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/Havasiz/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/lc.webp"/></code>
-  </a>
-</p>
-
-<br/>
-<br/>
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
 
 #
 
