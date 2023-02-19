@@ -36,9 +36,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Havasiz&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/left.webp">
+  <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Havasiz&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/right.webp">
+  <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
 #
@@ -88,14 +88,10 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Havasiz&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havasiz&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="177px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havasiz&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Havasiz&theme=react-dark&hide_border=true&area=true)
-
-![3D Profile](https://github.com/Havasiz/Havasiz/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
   
@@ -123,7 +119,7 @@
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Havasiz/Havasiz/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Havasiz/Havasiz/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -131,59 +127,18 @@
 
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <strong>𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
-
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@Havasiz/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
 
 <br>
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C928%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C576%20hrs%2015%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 17,905 Contributions in the Year 2022
- > 
-> 📦 9.1 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 240 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe CET
-
-💬 Programming Languages: 
-Other                    60 hrs 5 mins       █████████████████████  91.43% 
-Python               1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-Lua                     46 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-
-🔥 Editors: 
-Browser                  60 hrs 4 mins       ██████████████████████  91.4% 
-VS Code                  3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-
-
-💻 Operating System: 
-Windows                  65 hrs 43 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   20 repos            █████                       20.41% 
-Lua                      18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-
-```
+<!--END_SECTION:waka-->
 
 
 #
