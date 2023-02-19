@@ -36,9 +36,9 @@
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Havasiz&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://github.com/Havasiz/Havasiz/tree/main/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Havasiz&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/Havasiz/Havasiz/blob/master/WEBP/right.webp">
+  <img height="150" width="150" src="https://github.com/Havasiz/Havasiz/tree/main/WEBPright.webp">
 </p>
 
 #
@@ -123,7 +123,7 @@
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Havasiz/Havasiz/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Havasiz/Havasiz/tree/output/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -140,21 +140,14 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C928%20hrs%2028%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17,905 Contributions in the Year 2022
+> 🏆 7 Contributions in the Year 2022
  > 
-> 📦 9.1 MB Used in GitHub's Storage 
+> 📜 6 Public Repositories 
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 240 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
 
 📊 **This Week I Spent My Time On** 
@@ -163,7 +156,6 @@
 ⌚︎ Time Zone: Europe CET
 
 💬 Programming Languages: 
-Other                    60 hrs 5 mins       █████████████████████  91.43% 
 Python               1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
 Lua                     46 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
 
