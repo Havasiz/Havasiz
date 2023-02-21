@@ -140,13 +140,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 46 Contributions in the Year 2023
+> 🏆 45 Contributions in the Year 2023
  > 
 > 📦 51.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -203,7 +203,7 @@ Lua                      3 repos             ███████████�
 
 
 
- Last Updated on 20/02/2023 11:41:59 UTC
+ Last Updated on 21/02/2023 02:00:07 UTC
 <!--END_SECTION:waka-->
 
 
