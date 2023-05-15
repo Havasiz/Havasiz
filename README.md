@@ -134,7 +134,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20thousand%20lines%20of%20code-blue)
 
@@ -177,13 +177,13 @@ Sunday                   45 commits          ███████████�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    47 mins             █████████████████████████   100.00 % 
+Other                    44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   47 mins             █████████████████████████   100.00 % 
+Chrome                   44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Lua** 
@@ -197,7 +197,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 14/05/2023 01:48:34 UTC
+ Last Updated on 15/05/2023 01:46:50 UTC
 <!--END_SECTION:waka-->
 
 
