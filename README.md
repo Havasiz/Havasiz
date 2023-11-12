@@ -177,13 +177,13 @@ Sunday                   45 commits          ███████████�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Lua** 
@@ -197,7 +197,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 11/11/2023 01:53:40 UTC
+ Last Updated on 12/11/2023 01:36:17 UTC
 <!--END_SECTION:waka-->
 
 
