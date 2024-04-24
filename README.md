@@ -189,14 +189,13 @@ No Activity Tracked This Week
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      3 repos             ███████████████████░░░░░░   75.00 % 
-Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Lua                      3 repos             █████████████████████████   100.00 % 
 ```
 
 
 
 
- Last Updated on 23/04/2024 01:31:09 UTC
+ Last Updated on 24/04/2024 01:32:39 UTC
 <!--END_SECTION:waka-->
 
 
