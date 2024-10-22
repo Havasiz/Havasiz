@@ -142,48 +142,14 @@
 
 > 📦 51.8 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                27 commits          ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌃 Evening                39 commits          ███████████████░░░░░░░░░░   58.21 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  19 commits          ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Sunday                   45 commits          █████████████████░░░░░░░░   67.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -193,7 +159,7 @@ Lua                      3 repos             ███████████�
 
 
 
- Last Updated on 21/10/2024 01:58:02 UTC
+ Last Updated on 22/10/2024 01:56:27 UTC
 <!--END_SECTION:waka-->
 
 
