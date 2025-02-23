@@ -142,7 +142,7 @@
 
 > 📦 51.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -189,13 +189,14 @@ No Activity Tracked This Week
 **I Mostly Code in Lua** 
 
 ```text
-Lua                      3 repos             █████████████████████████   100.00 % 
+Lua                      3 repos             ███████████████████░░░░░░   75.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 
 
 
 
- Last Updated on 22/02/2025 01:51:55 UTC
+ Last Updated on 23/02/2025 02:01:28 UTC
 <!--END_SECTION:waka-->
 
 
